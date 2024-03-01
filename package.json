@@ -1,0 +1,23 @@
+{
+  "name": "addtwo",
+  "version": "1.0.0",
+  "description": "To add two numbers",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-shuklas/my2nd-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ayush Shukla",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ayush-shuklas/my2nd-npm/issues"
+  },
+  "homepage": "https://github.com/ayush-shuklas/my2nd-npm#readme"
+}
